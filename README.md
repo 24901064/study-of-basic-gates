@@ -1,6 +1,6 @@
-#EXP1:Study of basic digital IC’s and verification of truth tables for different logic gates, realization using Verilog
-##NAME:BHARANI KUMAR S
-##REGISTRATION NUMBER:24901064
+# EXP1:Study of basic digital IC’s and verification of truth tables for different logic gates, realization using Verilog
+## NAME:BHARANI KUMAR S
+## REGISTRATION NUMBER:24901064
 
 **AIM:** 
 
