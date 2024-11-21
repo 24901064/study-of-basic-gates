@@ -1,4 +1,6 @@
-### study-of-basic-gates
+#EXP1:Study of basic digital IC’s and verification of truth tables for different logic gates, realization using Verilog
+##NAME:BHARANI KUMAR S
+##REGISTRATION NUMBER:24901064
 
 **AIM:** 
 
@@ -71,11 +73,15 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
+![BASIC LOGIC  TRUTH TABLE](https://github.com/user-attachments/assets/881a80ae-6ca1-4bcd-bcc6-516b4d70c25d)
 
 **RTL realization Output:** 
+![BASIC LOGIC GATES](https://github.com/user-attachments/assets/6342b98e-e585-485d-8cc5-48e3747b571c)
+![BASIC LOGIC CODE](https://github.com/user-attachments/assets/cbad9b3a-c3c8-4268-b252-b3333aa3d4de)
 
-**RTL**
+
 
 **Result:**
 
+![BASIC LOGIC WAVEFORM](https://github.com/user-attachments/assets/239873aa-3cbf-4227-975a-059fa800cc51)
 
