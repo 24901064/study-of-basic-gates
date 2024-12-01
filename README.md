@@ -1,6 +1,6 @@
-# EXP1:Study of basic digital IC’s and verification of truth tables for different logic gates, realization using Verilog
-## NAME:BHARANI KUMAR S
-## REGISTRATION NUMBER:24901064
+# EXP1 : Study of basic digital IC’s and verification of truth tables for different logic gates, realization using Verilog
+## NAME : BHARANI KUMAR S
+## REGISTRATION NUMBER : 24901064
 
 **AIM:** 
 
@@ -66,22 +66,26 @@ Y= A⊕B
 
 **PROGRAM**
 
-![Uploading image.png…]()
-
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by:S.Bharani kumar RegisterNumber:24901064 
+ Developed by:BHARANI KUMAR S RegisterNumber: 24901064
  
 **Logic symbol & Truthtable**
-![BASIC LOGIC  TRUTH TABLE](https://github.com/user-attachments/assets/881a80ae-6ca1-4bcd-bcc6-516b4d70c25d)
+![SS OF TT BASIC](https://github.com/user-attachments/assets/19670a0b-6cea-4333-aa41-11dd9d60d4de)
+
 
 **RTL realization Output:** 
-![BASIC LOGIC GATES](https://github.com/user-attachments/assets/6342b98e-e585-485d-8cc5-48e3747b571c)
-![BASIC LOGIC CODE](https://github.com/user-attachments/assets/cbad9b3a-c3c8-4268-b252-b3333aa3d4de)
+![basic logic gates diagram](https://github.com/user-attachments/assets/721727b8-98b8-4e42-9830-162222e91cc6)
 
+
+**RTL**
+![basic logic gates code](https://github.com/user-attachments/assets/66c2ddd7-a9a6-4320-b406-d858f2100ced)
 
 
 **Result:**
 
-![BASIC LOGIC WAVEFORM](https://github.com/user-attachments/assets/239873aa-3cbf-4227-975a-059fa800cc51)
+![basic logic gates waveform](https://github.com/user-attachments/assets/c3062104-cc6a-4741-8d94-5d0fe337d076)
+
+Thus we have verified the truth table of logic gates in Quartus II using Verilog programming.
+
 
